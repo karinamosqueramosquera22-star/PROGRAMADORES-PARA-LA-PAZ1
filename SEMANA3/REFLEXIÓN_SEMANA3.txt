@@ -1,0 +1,3 @@
+Porque los trabajos en software deben tener un historial de cambios o edición como GIT para permitir guardar buenos resultados sin ningún error. Con esas herramientas tendremos accesos en saber quien hizo alguna edición o cambio en nuestro trabajo.
+
+Teniendo en cuenta todo GIT nos puede facilitar varias cosas en cualquier entorno posible de trabajo, y en la organización de ellos mismo.

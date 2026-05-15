@@ -1,0 +1,5 @@
+Repositorio: Es un sistema de almacenamiento donde se guarda cada trabajo, proyecto, archivo, dato o información digital que creamos.
+
+Commit: Acción que guarda permanentemente un grupo de cambio o edición que hacemos o le realizamos a un trabajo o proyecto.
+
+Push: Comando utilizado para subir los cambios a los repositorios 

@@ -1,0 +1,6 @@
+pwd
+mkdir semana-2
+touch PREGUNTAS_SEMANA2.txt
+nano COMANDOS_SEMANA2.txt
+nano PREGUNTAS_SEMANA2.txt
+nano REFLEXION_SEMANA2.txt
