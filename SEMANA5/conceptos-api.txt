@@ -1,0 +1,6 @@
+La ruta POST /reporte recibe información enviada por el usuario.
+Permite guardar o procesar datos enviados desde una aplicación.
+
+En una comunidad podría servir para enviar reportes de problemas,
+como daños en calles, emergencias o solicitudes de ayuda,
+y así organizar la información de forma centralizada.
