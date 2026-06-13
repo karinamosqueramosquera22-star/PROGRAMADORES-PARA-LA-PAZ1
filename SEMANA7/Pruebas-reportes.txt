@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el sistema muestra la lista de reportes almacenados en memoria. Si no existen reportes, aparece un arreglo vacío ([]). Cuando se registran reportes mediante POST, estos se muestran al consultar nuevamente la ruta GET
