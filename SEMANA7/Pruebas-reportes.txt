@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Al consultar la ruta GET /reportes, el sistema muestra la lista de reportes almacenados en memoria. Si no existen reportes, aparece un arreglo vacío ([]). Cuando se registran reportes mediante POST, estos se muestran al consultar nuevamente la ruta GET.
+=======
+Al consultar la ruta GET /reportes, el sistema muestra la lista de reportes almacenados en memoria. Si no existen reportes, aparece un arreglo vacío ([]). Cuando se registran reportes mediante POST, estos se muestran al consultar nuevamente la ruta GET
+>>>>>>> e1af9cd7596efe41148c5d57770f8b4333071661

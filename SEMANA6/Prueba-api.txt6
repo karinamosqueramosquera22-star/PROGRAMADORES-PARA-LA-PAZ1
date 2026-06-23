@@ -1,0 +1,1 @@
+Al enviar una petición POST a la ruta /registro, el servidor recibe los datos enviados en formato JSON y devuelve una respuesta con el estado, el nombre y el mensaje recibidos.
