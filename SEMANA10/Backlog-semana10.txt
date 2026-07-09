@@ -1,0 +1,9 @@
+1. Como líder comunitario quiero visualizar un resumen de los reportes pendientes para priorizar las acciones más urgentes.
+
+2. Como voluntario quiero asignarme un caso disponible para darle seguimiento hasta su solución.
+
+3. Como supervisor quiero generar un informe mensual de las actividades realizadas para evaluar el avance del proyecto.
+
+4. Como integrante del equipo quiero recibir un recordatorio cuando una tarea esté próxima a vencer para cumplir los tiempos establecidos.
+
+5. Como administrador quiero registrar nuevos miembros del equipo con diferentes permisos para controlar el acceso al sistema.
