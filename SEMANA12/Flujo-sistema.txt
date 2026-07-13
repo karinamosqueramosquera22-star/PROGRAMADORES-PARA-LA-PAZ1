@@ -1,0 +1,5 @@
+1. Un usuario ingresa a la plataforma y diligencia el formulario para crear una nueva petición.
+2. El sistema valida que la información esté completa y la almacena de forma segura.
+3. La petición queda disponible para que otros ciudadanos la consulten y registren su apoyo.
+4. Cada nuevo apoyo se registra automáticamente y actualiza el total de participantes en tiempo real.
+5. Al finalizar el proceso o al alcanzar el objetivo establecido, la plataforma genera un documento PDF con el resumen de la petición y los apoyos obtenidos.
